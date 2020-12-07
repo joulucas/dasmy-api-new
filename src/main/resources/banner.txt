@@ -1,0 +1,13 @@
+								  o__ __o               o             o__ __o      o          o   \o       o/ 
+								 <|     v\             <|>           /v     v\    <|\        /|>   v\     /v  
+								 / \     <\            / \          />       <\   / \\o    o// \    <\   />   
+								 \o/       \o        o/   \o       _\o____        \o/ v\  /v \o/      \o/     
+								  |         |>      <|__ __|>           \_\__o__   |   <\/>   |        |      
+								 / \       //       /       \                 \   / \        / \      / \     
+								 \o/      /       o/         \o     \         /   \o/        \o/      \o/     
+								  |      o       /v           v\     o       o     |          |        |      
+								 / \  __/>      />             <\    <\__ __/>    / \        / \      / \     
+								                                                                              
+								                                                                              
+								API DO SISTEMA DA LOJA DASMY MODAS
+								@DASMYMODAS
